@@ -1,0 +1,7 @@
+Medication,PatientCount,ReadmissionCount,PharmacyUnits,PharmacyRevenueINR,AdverseReports,SeriousAdverse
+Atorvastatin,1,1,80,8800.0,1,0
+Ibuprofen,1,1,130,2860.0,1,1
+Metformin,2,0,120,3000.0,1,0
+Amlodipine,1,0,110,3300.0,0,0
+Lisinopril,1,0,0,0.0,1,0
+Cetirizine,1,0,200,2400.0,0,0
